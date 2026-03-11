@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Anton 👋
 
-<!--
-**a-mkrv/a-mkrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior iOS Developer building scalable mobile applications.
 
-Here are some ideas to get you started:
+#### Experience with:
+Swift • SwiftUI • Machine Learning • E-commerce • MQTT • BLE • Chat Client-Server Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 Stats & Top Languages
+
+![Anton GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mkrv&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mkrv&layout=compact) 
+
+#### 🛠 Tech
+
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
