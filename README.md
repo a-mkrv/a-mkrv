@@ -1,13 +1,18 @@
 ### Hi, I'm Anton 👋
 
-Senior iOS Developer building scalable mobile applications.
+- Senior iOS Developer with 10+ years of experience building scalable mobile applications with Swift and SwiftUI.
+- From time to time I enjoy building small pet projects and experimenting with new ideas.
+- Portfolio includes experimental and learning projects, as well as low-level client implementations.
 
-#### Experience with:
-Swift • SwiftUI • Machine Learning • E-commerce • MQTT • BLE • Chat Client-Server Apps
+#### 👨‍💻 Experienced with
+Swift • SwiftUI • E-commerce • Machine Learning & AI • MQTT • BLE • Client–Server Chat Applications (C++)
+
+#### 🏃 About
+Runner • Photography Enthusiast • Málaga, Spain
 
 #### 📊 Stats & Top Languages
 
-![Anton GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mkrv&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mkrv&layout=compact) 
+![Anton GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mkrv&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mkrv&layout=compact)
 
 #### 🛠 Tech
 
