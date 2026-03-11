@@ -19,3 +19,5 @@ Runner • Photography Enthusiast • Málaga, Spain
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=a-mkrv&label=Profile%20views&color=0e75b6&style=flat)
+
